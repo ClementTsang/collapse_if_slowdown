@@ -1,5 +1,7 @@
 # collapse_if_slowdown
 
+Created as a demo repo for [this issue](https://github.com/rust-lang/rust/issues/111583).
+
 Run the benchmarks using something like (at least on Linux):
 
 ```bash
